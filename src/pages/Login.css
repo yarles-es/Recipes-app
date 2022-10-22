@@ -1,0 +1,29 @@
+.container-login {
+max-width: 600px;
+max-height: 1024px;
+min-width: 360px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding-top: 30%;
+padding-bottom: 75%;
+background-color: #41197F;
+}
+
+.icone-login {
+  height: 180px;
+  width: 200px;
+  margin-bottom: 50px;
+}
+
+.input-login {
+  max-width: 300px;
+  margin: 5px 0 5px 0;
+  color: #41197F;
+}
+
+.button-login {
+  margin-top: 10px;
+  width: 120px;
+}
